@@ -134,6 +134,8 @@ Contact me on Matrix (`@cascaderainfall:matrix.org`) or shoot me an email at  `f
 Check out this blog's [GitHub repository](https://github.com/cascaderainfall/webloglol).
 
 <div style="display:none;">
-<img src="https://cascade.url.lol/anonymousgoogleaccountguide"
-alt="this is just a visitor counter (collects no data)">
+<video>
+<source src="https://cascade.url.lol/anonymousgoogleaccountguide">
+this is just an anonymous visitor counter (collects no data)
+</video>
 </div>
