@@ -46,7 +46,11 @@ Do note that using Tor is likely to get your account flagged and Google to ask f
 ### Paid VPN
 This method involves using a paid VPN so that you can choose VPN servers which are likely not blacklisted by Google. 
 
-I myself create accounts using this method with Mullvad VPN and have not had much trouble. Heck, I created one just now!<sup>[\[external image\]](https://cascade.url.lol/wowthatwaseasygoogle)</sup>
+I myself create accounts using this method with Mullvad VPN and have not had much trouble. Heck, I created one just now!
+<details>
+  <summary style="color: #26b72b; padding: 2px 6px; width: 15em; border: solid; box-shadow: 3px 3px 4px black; cursor: pointer; background-color: #343434; list-style: none;"> click to load external image </summary>
+  <img src="https://cascade.url.lol/wowthatwaseasygoogle" alt="Well that was easy! I swear this used to be harder lol" loading="lazy" style="border: dashed cyan;">
+</details>
 
 Servers in these countries have high success rates:
 - Lithuania \[li]
