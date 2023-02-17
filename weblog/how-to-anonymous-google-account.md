@@ -22,7 +22,7 @@ There are essentially 3 ways you can create a Google account anonymously
 </br>
 
 ### Public Wi-Fi
-Basically go outside, touch some grass; and find a place with public access free Wi-Fi. After connecting to the Wi-Fi, open an incognito tab on Vanadium and go to `google.com` and create an account.
+Basically go outside, touch some grass; and find a place with public access free Wi-Fi. After connecting to the Wi-Fi, open an incognito tab on Vanadium, go to `google.com` and create an account.
 If you're lucky, Google won't ask for a phone number, and you will be good to go!
 
 I have used this method with coffee shops, restaurants and shops all over town and it worked like a charm.  
@@ -94,14 +94,14 @@ DO NOT SKIP THIS STEP NO MATTER WHAT METHOD(S) YOU USE
 
 ## Using The Anonymous Account on GrapheneOS
 If you will be using GrapheneOS's **sandboxed Play Services** there are a couple of things to keep in mind. You should create a new user profile and install a VPN / Orbot FIRST. To install, you can get the APKs from Aurora Store / GitHub or, if you already have play services on your 'Owner' profile, by cloning them. Depending on which VPN/Tor app you use.
-Connect to your VPN/Tor and turn on  `Always on VPN`  and  `Block connections without VPN` . It is important from now on that you **DO NOT** use this profile with  `Always on VPN`  turned off.
+Connect to your VPN/Tor and turn on `Always on VPN` and `Block connections without VPN`. It is important from now on that you **DO NOT** use this profile with `Always on VPN` turned off.
 Next, install the sandboxed Play Services apps from 'Apps' as you wish. Sign in to your new anonymously created account and you are good to go.
 
 However, this is not the end. You need to beware of bad practices that can deanonymize you.
-It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google to deanonymize you. See (grapheneos.org/faq#non-hardware-identifiers)[https://grapheneos.org/faq#non-hardware-identifiers]
+It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google or other parties to deanonymize you. See (grapheneos.org/faq#non-hardware-identifiers)[https://grapheneos.org/faq#non-hardware-identifiers]
 If you have the exact same apps installed on a profile with another Google account logged in, Google can theoretically make a connection between the accounts.
 
-Also, Play Services can read your SIM's country code if the SIM card is in the device. For example, Google will know a `+49` (Germany) SIM card is inserted but will not know the full number. I am not sure about eSIMs.
+Also, Play Services can read your SIM's country code if the SIM card is inserted in the device. For example, Google will know a `+49` (Germany) SIM card is inserted but will not know the full number. I am not sure about eSIMs.
 Play Services can also see how much global empty storage space there is on the device.
 
 </br>
@@ -117,7 +117,7 @@ It is recommended to use the **Always on VPN** and **Block connections without V
 
 **DO NOT** make your account too similar to your other accounts.
 
-**DO NOT** turn on  `Google Location Accuracy`.
+**DO NOT** turn on `Google Location Accuracy`.
 
 **DO** use common sense.
 
@@ -132,8 +132,7 @@ Thanks to my friend Netcake for his help in research, testing, and writing.
 </br>
 
 ##### Feedback
-Contact me on Matrix (`@cascaderainfall:matrix.org`) or shoot me an email at  `feedback -at- mail.cascade.omg.lol` 
- or literally any other way listed on [my profile](https://cascade.profile.lol) for feedback and suggestions.
+Contact me on Matrix (`@cascaderainfall:matrix.org`) or shoot me an email at `feedback -at- mail.cascade.omg.lol` or literally any other way listed on [my profile](https://cascade.profile.lol) for feedback and suggestions.
 ##### Want to improve this page?
 Check out this blog's [GitHub repository](https://github.com/cascaderainfall/webloglol).
 
