@@ -77,7 +77,7 @@ This method involves purchasing an SMS verification from a paid SMS verification
 
 I've used this method with 5sim *-dot-* net and had problems after the initial account creation.
 
-Note that this method is the safest for persistent (non-throwaway) accounts as Google is highly unlikely to flag your account or ask for a phone number later on. And it allows you to turn on Google's *account data deletion after inactivity* feature.
+Note that this method is the safest for persistent (non-throwaway) accounts as Google is highly unlikely to flag your account or ask for a phone number later on. And it allows you to turn on Google's [*Automatic Account Deletion*](https://support.google.com/accounts/answer/3036546?hl=en) feature.
 
 BTW, don't try free SMS verification sites as they don't work and are just a waste of your time.
 
@@ -99,8 +99,8 @@ Next, install the sandboxed Play Services apps from 'Apps' as you wish. Sign in 
 
 However, this is not the end. You need to beware of bad practices that can deanonymize you.
 It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google or other parties to deanonymize you. See [grapheneos.org/faq#non-hardware-identifiers](https://grapheneos.org/faq#non-hardware-identifiers)
-If you have the exact same apps installed on a profile with another Google account logged in, Google can theoretically make a connection between the accounts.
 
+If you have the exact same apps installed on a profile with another Google account logged in, Google can theoretically make a connection between the accounts.
 Also, Play services can also read the country code of your SIM card when it is inserted into the device. For example, Google will know that a `+49` (Germany) SIM card is inserted but will not know the full number. I am not sure about eSIMs.
 Play Services can also see how much global empty storage space is available on the device.
 
