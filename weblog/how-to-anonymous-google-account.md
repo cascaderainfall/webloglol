@@ -98,7 +98,7 @@ Connect to your VPN/Tor and enable `Always on VPN` and `Block connections withou
 Next, install the sandboxed Play Services apps from 'Apps' as you wish. Sign in to your new anonymously created account and you are good to go. (But not really)
 
 However, this is not the end. You need to beware of bad practices that can deanonymize you.
-It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google or other parties to deanonymize you. See (grapheneos.org/faq#non-hardware-identifiers)[https://grapheneos.org/faq#non-hardware-identifiers]
+It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google or other parties to deanonymize you. See [grapheneos.org/faq#non-hardware-identifiers](https://grapheneos.org/faq#non-hardware-identifiers)
 If you have the exact same apps installed on a profile with another Google account logged in, Google can theoretically make a connection between the accounts.
 
 Also, Play services can also read the country code of your SIM card when it is inserted into the device. For example, Google will know that a `+49` (Germany) SIM card is inserted but will not know the full number. I am not sure about eSIMs.
