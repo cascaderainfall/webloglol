@@ -17,7 +17,7 @@ There are essentially 3 ways you can create a Google account anonymously
 2. [**Free VPN / Tor**](#free-vpn--tor)
 3. [**Paid VPN**](#paid-vpn)
 
-[**Anonymous SIM verification**](#anonymous-sim-verification) can be used in combination with any other method for convenience or reducing trouble.
+[**Anonymous Phone Verification**](#anonymous-phone-verification) can be used in combination with any other method for convenience or reducing trouble.
 
 </br>
 
@@ -39,7 +39,7 @@ The procedure is:
 5. if it says phone number required, fully exit out and close Vanadium from the task switcher
 6. change VPN / Tor server and repeat
 
-Do note that using Tor is likely to get your account flagged and Google to ask for phone verification. See [Anonymous SIM verification](#anonymous-sim-verification).  
+Do note that using Tor is likely to get your account flagged and Google to ask for phone verification. See [Anonymous Phone Verification](#anonymous-phone-verification).  
 
 </br>
 
@@ -70,8 +70,8 @@ The procedure is:
 
 </br>
 
-### Anonymous SIM verification
-This is not an account creation method by itself but rather a way to create/secure an account with phone verification without giving your real phone number. By doing this, you can create an account with any other method, even if Google forces you to give a phone number. And it can be done WHILE or AFTER creating the account.
+### Anonymous Phone Verification
+This is not an account creation method by itself but rather a way to create/secure an account with phone number verification without giving your real phone number. By doing this, you can create an account with any other method, even if Google forces you to give a phone number. And it can be done WHILE or AFTER creating the account.
 
 This method involves buying an SMS verification on a paid SMS verification website. Making the purchase anonymously (e.g. with Monero) is up to you. 
 
