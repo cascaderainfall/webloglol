@@ -93,15 +93,15 @@ DO NOT SKIP THIS STEP NO MATTER WHAT METHOD(S) YOU USE
 </br>
 
 ## Using The Anonymous Account on GrapheneOS
-If you are going to use GrapheneOS's **sandboxed Play Services** there are a few things to keep in mind. You should create a new user profile and install a VPN / Orbot FIRST. To install, you can get the APKs from Aurora Store / GitHub or, if you already have Play Services on your 'Owner' profile, by cloning them. Depending on which VPN/Tor app you use.
+If you are going to use GrapheneOS's [**sandboxed Google Play Services**](https://grapheneos.org/usage#sandboxed-google-play) there are a few things to keep in mind. You should create a new user profile and install a VPN / Orbot FIRST. To install, you can get the APKs from Aurora Store / GitHub or, if you already have Play Services on your 'Owner' profile, by cloning them. Depending on which VPN/Tor app you use.
 Connect to your VPN/Tor and enable `Always on VPN` and `Block connections without VPN`. It is important from now on that you **DO NOT** use this profile with `Always on VPN` turned off.
-Next, install the sandboxed Play Services apps from 'Apps' as you wish. Sign in to your new anonymously created account and you are good to go. (But not really)
+Next, install the sandboxed Play Services apps from <span title="GrapheneOS app repository client">'Apps'</span> as you wish. Sign in to your new anonymously created account and you are good to go. (But not really)
 
 However, this is not the end. You need to beware of bad practices that can deanonymize you.
 It is **UNACCEPTABLE** to log in to this account on any profile which already has/had Play Services as every profile on Android has an app ID based unique identifier which can be used by Google or other parties to deanonymize you. See [grapheneos.org/faq#non-hardware-identifiers](https://grapheneos.org/faq#non-hardware-identifiers)
 
 If you have the exact same apps installed on a profile with another Google account logged in, Google can theoretically make a connection between the accounts.
-Also, Play services can also read the country code of your SIM card when it is inserted into the device. For example, Google will know that a `+49` (Germany) SIM card is inserted but will not know the full number. I am not sure about eSIMs.
+Also, Play Services can also read only the country code of any inserted SIM card or active eSIM on the device. For example, Google will know that a `+49` (Germany) SIM card is inserted but will not know the phone number.
 Play Services can also see how much global empty storage space is available on the device.
 
 </br>
@@ -113,7 +113,7 @@ It is recommended to use the **Always on VPN** and **Block connections without V
 
 **DO NOT** use other names/pseudonyms you used on other Google accounts or anywhere really.
 
-**DO NOT** log in to your other Google accounts on play services.
+**DO NOT** log in to your other Google accounts on Play Services.
 
 **DO NOT** make your account too similar to your other accounts.
 
